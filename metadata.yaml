@@ -1,0 +1,25 @@
+_repo: Naturalismus-Idealismus-Expressionismus_72877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Deri, Max
+    gutenberg_agent_id: '56845'
+    url: http://www.gutenberg.org/2009/agents/56845
+description: ''
+gutenberg_issued: '2024-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72877'
+language: de
+pgterms:marc905: 20211128042006deri
+pgterms:marc906: '1921'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig :$bVerlag von E. Seemann, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Naturalismus, Idealismus, Expressionismus
+url: http://www.gutenberg.org/ebooks/72877
